@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    font-size:3rem;
+    margin-top:.5rem;
+    
+
+}
+
+body{
+    background-color: black;
+    font-family: 'Nabla', cursive;
+    background-image:url('https://web.archive.org/web/20091024182953im_/http://geocities.com/bffl_guild/maggie_bg_oceanbubbles.gif');
+
+}
+
+.rainbow{
+    display:absolute;
+    margin-top:0;
+    text-align: center;
+    
+}
+
+.ddd{
+    position:fixed;
+    left:40%;
+    
+}
+
+.p{
+   position: fixed;
+   right:10%;
+   bottom:10%;
+}
+
+.p2{
+    position: fixed;
+    bottom:10%;
+}
+
+.a{
+    position: fixed;
+    top:50%;
+    left:60%;
+
+}
+
+.t{
+    position: fixed;
+    bottom: 20%;
+    z-index: -1;
+}
