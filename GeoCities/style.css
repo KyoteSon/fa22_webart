@@ -19,37 +19,142 @@ body{
 
 .rainbow{
     display:absolute;
-    margin-top:0;
     text-align: center;
     
 }
 
 .ddd{
-    position:fixed;
-    left:40%;
+    position:absolute;
+    left:30%;
+    top:30%;
     
 }
 
 .p{
-   position: fixed;
+   position: absolute;
    right:10%;
    bottom:10%;
 }
 
 .p2{
-    position: fixed;
+    position: absolute;
     bottom:10%;
 }
 
 .a{
-    position: fixed;
+    position: absolute;
     top:50%;
     left:60%;
 
 }
 
 .t{
-    position: fixed;
+    position: absolute;
     bottom: 20%;
     z-index: -1;
+}
+
+.lo{
+    position: absolute;
+    bottom:0%;
+    right:0%;
+
+}
+.h{
+    position:absolute;
+    right:30%;
+
+}
+
+.m{
+    position:absolute;
+    top:50%;
+    left:40%;
+}
+
+.c{
+    position: absolute;
+    top:40%;
+    left:20%;
+
+}
+
+.w{
+    position: absolute;
+    right:15%;
+    top:20%;
+}
+
+.dance{
+    position:absolute;
+    right:0%;
+    top:0%;
+    z-index:-1;
+
+}
+
+.dd2{
+    position:absolute;
+    right:10%;
+    top:20%;
+}
+
+.cute{
+    position:absolute;
+    top:50%;
+    left:30%;
+}
+
+.t{
+    position :absolute;
+    left:20%;
+}
+
+.all{
+    position:absolute;
+    left:40%;
+}
+
+.s{
+    position:absolute;
+    left:10%;
+}
+
+.sit{
+    position:absolute;
+    left:45%;
+    top:30%;
+}
+
+.fl{
+    position:absolute;
+    bottom:0;
+    right:40%;
+    
+
+}
+
+.dan{
+    position: absolute;
+    right:5%;
+    top:50%;
+
+}
+
+.br{
+    position:absolute;
+    top:30%;
+    left:5%;
+}
+
+.ic{
+    position:absolute;
+    left:20%;
+
+}
+
+.bravo{
+    position:absolute;
+    top:5%;
+    left:5%;
 }
